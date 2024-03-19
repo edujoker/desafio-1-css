@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+
+    margin-top: 47px;
+    margin-left: 47px;
+}
+
+.link-menu {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.875px;
+    text-align: center;
+    color: #17233D;
+    margin-left: 32px;
+    cursor: pointer;
+
+}
+
+.button-sign-up {
+    width: 124px;
+    height: 51px;
+    border: 1px;
+    background: linear-gradient(0deg, #4CB538, #4CB538),
+        linear-gradient(0deg, #6FBF44, #6FBF44);
+    border-radius: 10px;
+    color: #ffffff;
+    margin-left: 32px;
+    cursor: pointer;
+}
